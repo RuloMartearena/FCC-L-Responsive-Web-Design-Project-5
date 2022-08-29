@@ -16,7 +16,7 @@ body {
     border: white 1px solid;
 }
 #navbar-list {
-    display: flex;
+    display: flex;  
     margin-right: 2rem;
 }
 @media (max-width: 500px){
